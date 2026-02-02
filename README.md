@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @housaynraffea
 - 👀 I’m interested in websites, game development, programming
-- 🌱 I’m currently learning Godot Game Engine & GameMaker Engine
