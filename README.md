@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @housaynraffea
-- 👀 I’m interested in websites, game development, programming
+- 👀 I’m interested in web development/design, game development, programming
