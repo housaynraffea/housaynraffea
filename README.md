@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Housayn Raffea
-- 👀 I’m interested in web development/design, game development, programming, composing, writing, 2D/3D art & animation 
+- 👀 I’m interested in web development/design, game development, programming, composing music, writing, 2D/3D art & animation 
 - Check out my [dotfiles](https://github.com/housaynraffea/dotfiles) if you want
